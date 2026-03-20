@@ -1,13 +1,15 @@
-# VLAN MANAGER
+# python & Bash projects
 
-A python script that stimulates basic VLAN management
+A collection of python and bash projects used for cloud engineering.
 
 FEATURES
 
-- create new VLANs
-- Assign devices to VLANS
-- Display all VLANs
-- Search for devices across VLANS
+## python
+- VLANs.py - VLAN manager simulation
+- subnet_calculator.py - subnet calculator
 
   TECH
-  python 3
+  python3
+
+  ## Bash
+  - cloudp.sh - cloud health check script
