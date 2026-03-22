@@ -7,6 +7,7 @@ FEATURES
 ## python
 - VLANs.py - VLAN manager simulation
 - subnet_calculator.py - subnet calculator
+- log_analyzer.py - Log analyzer
 
   TECH
   python3
