@@ -8,6 +8,7 @@ FEATURES
 - VLANs.py - VLAN manager simulation
 - subnet_calculator.py - subnet calculator
 - log_analyzer.py - Log analyzer
+- Ip Address Validator
 
   TECH
   python3
