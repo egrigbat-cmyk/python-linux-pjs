@@ -9,6 +9,7 @@ FEATURES
 - subnet_calculator.py - subnet calculator
 - log_analyzer.py - Log analyzer
 - Ip Address Validator
+- Cron Job Log parser
 
   TECH
   python3
