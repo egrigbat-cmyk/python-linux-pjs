@@ -11,6 +11,7 @@ FEATURES
 - Ip Address Validator
 - Cron Job Log parser
 - Network security checker
+- Aws resource tracker
 
   TECH
   python3
