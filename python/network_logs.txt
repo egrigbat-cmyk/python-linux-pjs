@@ -1,0 +1,6 @@
+2026-03-25 14:00 - Device: router1 - Download: 45Mbps - Upload: 12Mbps
+2026-03-25 14:00 - Device: switch1 - Download: 80Mbps - Upload: 39Mbps
+2026-03-25 14:00 - Device: router2 - Download: 65Mbps - Upload: 22Mbps
+2026-03-25 14:00 - Device: firewall - Download: 96Mbps - Upload: 52Mbps
+2026-03-25 14:00 - Device: switch2 - Download: 75Mbps - Upload: 32Mbps
+2026-03-25 14:00 - Device: router3 - Download: 85Mbps - Upload: 49Mbps
