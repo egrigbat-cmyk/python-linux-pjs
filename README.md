@@ -12,6 +12,7 @@ FEATURES
 - cron_job_log_parser.py - Cron Job Log parser
 - network_security_checker.py - Network security checker
 - Aws_resource_tracker.py - Aws resource tracker
+- bandwidth_monitor.py - A Bandwidth monitor
 
   TECH
   python3
