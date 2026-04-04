@@ -22,3 +22,4 @@ FEATURES
   - cloudp.sh - cloud health check script
   - checker.sh- Disk usage warning script
   - network_check.sh - ip address checker script
+  - port_checker.sh - port checking script
